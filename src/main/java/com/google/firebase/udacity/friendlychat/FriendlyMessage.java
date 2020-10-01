@@ -54,3 +54,6 @@ public class FriendlyMessage {
         this.photoUrl = photoUrl;
     }
 }
+public static void main(String[] args) {
+    private int w=5;
+}
